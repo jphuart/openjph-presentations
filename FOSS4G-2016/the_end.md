@@ -5,7 +5,7 @@ Thank **YOU** for your kind attention.
 
 This presentation is available at 
 
-https://github.com/jphuart/openjph-presentations
+https://github.com/jphuart/openjph-presentations/tree/master/FOSS4G-2016
 
 Thanks to reveal.js https://github.com/hakimel/reveal.js
 
