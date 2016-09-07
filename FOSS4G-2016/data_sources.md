@@ -1,6 +1,4 @@
-
-Data sources
-============
+# Data sources
 
 To build our map, we need a csv file with the daily and hourly PV data for all the solar points.
 
@@ -9,8 +7,7 @@ We want to display a percentage of the **clear sky PV production**.
 In other words, **is it a bright day for the season?**
 
 
-TMY Clear Sky
--------------
+## TMY Clear Sky
 
 Clear sky solar energy received on an inclined plane during a **normal year**.
 
@@ -37,8 +34,7 @@ Translate solar energy in PV energy per installed capacity kWh/m² in kWh/kWp:
         return kWhperkWp
 
 
-CSV file
---------
+## CSV file
 
 Result daily power is expressed in percentage of clear sky.
 Result hourly power is expressed in Wh/Wp.
