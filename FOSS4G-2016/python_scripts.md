@@ -16,14 +16,6 @@ myscript:
 	Tested only with grass version 7.
 	The grass python scripting seems in its early stages, I think this will evolve.
 	
-	TODO: 
-	    
-	    - logging on a file instead of using grass script messages on the console
-	    - unittests
-	    - how to properly manage the import of grass.script library (see the 2 FIXME)
-	    - better documentation
-	    - add the opportunity to create the location if does not exists.
-	
 	"""
 
 	__author__ = 'jph'
@@ -119,9 +111,7 @@ myscript:
 	    ############## EnergizAIR methods ###################################
 	
 	    def create_idw_interpolation_raster(self, input, output, npoints=20):
-	        """
-	        v.surf.idw --overwrite input=data_map_2015_08_11_8@apere0 column=dbl_3 output=idw_20150811H8 npoints=20
-	        """
+
 	        if self.debug:
 	            self.gscript.message('Create interpolation IDW raster')
 	
@@ -137,9 +127,6 @@ myscript:
 	        return
 	
 	    def create_rst_interpolation_raster(self, input, elevation, zcolumn, smooth=0, tension=40, npmin=20, segmax=40):
-	        """
-	        v.surf.rst --overwrite input=data_map_2015_08_11_9@apere0 zcolumn=power elevation=rst_20150811H9 mask=MASK@apere0 smooth=1
-	        """
 	        if self.debug:
 	            self.gscript.message('Create interpolation RST raster')
 	
@@ -171,9 +158,6 @@ myscript:
 	        return
 	
 	    def insert_vector_csv(self, input, output):
-	        # v.in.ascii --overwrite
-	        # input=/home/jph/workspace/qgis_automation/resources/data/test_map_2015-08-11_8.csv
-	        # output=data_map_2015_08_11_9 separator=comma skip=1
 	
 	        if self.debug:
 	            self.gscript.message('Insert the {0} csv data'.format(output))
@@ -226,19 +210,6 @@ myscript:
 	
 	    def save_png(self, filename, raster, map, height=960, width=1280):
 	        """ Save the map in a png file with a transparent background"""
-	        #         for key in os.environ.keys():
-	        #             print key, os.environ[key]
-	        #
-	#         # SETTINGS for PNG DRIVER
-	#         os.system('rm {0}'.format(filename))
-	#         os.environ['GRASS_RENDER_TRANSPARENT']='TRUE'
-	#         os.environ['GRASS_RENDER_WIDTH']=str(1280)
-	#         os.environ['GRASS_RENDER_HEIGHT']=str(960)
-	# 
-	#         self.gscript.run_command('d.mon', overwrite=True, start='png', output=filename)
-	#         self.gscript.run_command('d.rast', map='{0}@{1}'.format(raster, self.mapset))
-	#         self.gscript.run_command('d.vect', map='{0}@{1}'.format(map, self.mapset), color='white', fill_color='none')
-	#         self.gscript.run_command('d.mon', stop="png")
 	
 	        # SETTINGS for PNG DRIVER
 	        os.system('rm {0}'.format(filename))
@@ -296,8 +267,7 @@ myscript:
 	        if self.country == 'BE':
 	            self.gscript.run_command(
 	                'g.region', n=243900, s=21200, e=295950, w=23700, rows=4454, cols=5445, nsres=50, ewres=50, quiet=not self.debug)
-	#             self.gscript.run_command(
-	#                 'g.region', n=243900, s=21200, e=295950, w=23700, rows=8908, cols=10890, nsres=25, ewres=25)
+
 	        else:
 	            print >>sys.stderr, "ERROR: undefined region for country (%s)" % self.country
 	            sys.exit(-1)
@@ -313,7 +283,7 @@ myscript:
 	    mysession.start_grass()
 	    mysession.gscript.message('Current GRASS GIS 7 environment:')
 	    print mysession.gscript.gisenv()
-
+		
 
 ## Generate maps
 
