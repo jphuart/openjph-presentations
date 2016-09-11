@@ -1,6 +1,7 @@
 # Python Scripts
 
 
+
 ## Scripting GRASS
 
 [Best link](https://grasswiki.osgeo.org/wiki/Working_with_GRASS_without_starting_it_explicitly#Python:_GRASS_GIS_7_with_existing_location)
@@ -283,9 +284,11 @@ myscript:
 	    mysession.start_grass()
 	    mysession.gscript.message('Current GRASS GIS 7 environment:')
 	    print mysession.gscript.gisenv()
-		
+
+
 
 ## Generate maps
+
 
 
 ## Save them as PDF

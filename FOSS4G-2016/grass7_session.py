@@ -218,20 +218,6 @@ class Grass7Session(object):
 
     def save_png(self, filename, raster, map, height=960, width=1280):
         """ Save the map in a png file with a transparent background"""
-        #         for key in os.environ.keys():
-        #             print key, os.environ[key]
-        #
-#         # SETTINGS for PNG DRIVER
-#         os.system('rm {0}'.format(filename))
-#         os.environ['GRASS_RENDER_TRANSPARENT']='TRUE'
-#         os.environ['GRASS_RENDER_WIDTH']=str(1280)
-#         os.environ['GRASS_RENDER_HEIGHT']=str(960)
-# 
-#         self.gscript.run_command('d.mon', overwrite=True, start='png', output=filename)
-#         self.gscript.run_command('d.rast', map='{0}@{1}'.format(raster, self.mapset))
-#         self.gscript.run_command('d.vect', map='{0}@{1}'.format(map, self.mapset), color='white', fill_color='none')
-#         self.gscript.run_command('d.mon', stop="png")
-
         # SETTINGS for PNG DRIVER
         os.system('rm {0}'.format(filename))
         os.environ['GRASS_RENDER_IMMEDIATE'] = 'png'
@@ -288,8 +274,6 @@ class Grass7Session(object):
         if self.country == 'BE':
             self.gscript.run_command(
                 'g.region', n=243900, s=21200, e=295950, w=23700, rows=4454, cols=5445, nsres=50, ewres=50, quiet=not self.debug)
-#             self.gscript.run_command(
-#                 'g.region', n=243900, s=21200, e=295950, w=23700, rows=8908, cols=10890, nsres=25, ewres=25)
         else:
             print >>sys.stderr, "ERROR: undefined region for country (%s)" % self.country
             sys.exit(-1)
