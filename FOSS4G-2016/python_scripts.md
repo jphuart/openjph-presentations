@@ -316,6 +316,10 @@ The EnergizAIR script:
 
 
 
+## Save values as a json array
+
+
+
 ## Save them as PDF
 
 

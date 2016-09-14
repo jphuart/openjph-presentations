@@ -2,11 +2,30 @@
 
 
 
-## Display a raster
+## Load the country map as background
 
 
 
-## Change projection
+## Control projection settings with Proj4
+
+
+
+## Add each hourly image and the daily summary as a pane
+Panes has appeared recently
+
+
+## Play with the z-index of the different panes
+
+
+
+## Is it your app responsive?
+Play with the css
+
+Play with the javascript
+
+
+
+## Et voilà
 
 
 
