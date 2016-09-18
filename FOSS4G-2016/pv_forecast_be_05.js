@@ -28,13 +28,10 @@ var PvForecastBe_05 = {
     startHour : 6,
     endHour : 17,
     slideIndex : 1,    
-//    slider : $("#slide"),
-//    hrDisplay : $("#slidevalue"),
     timer : 0,
     /* always fit these bounds in the window */
     beBounds : [[ 51.49, 2.54],[49.49, 6.42]],
     /* solar image bounds in  EPSG31370 */
-//    beimgBounds : L.bounds([11200.00, 244000.00],[308350.00, 21000.00]),
     beimgBounds : L.bounds([12500.00, 244000.00],[308600.00, 21000.00]),
     /* define the projection used by the map */
     belProjection : "+proj=lcc +lat_1=51.16666723333333 +lat_2=49.8333339 +lat_0=90 +lon_0=4.367486666666666 +x_0=150000.013 +y_0=5400088.438 +ellps=intl +towgs84=-106.869,52.2978,-103.724,0.3366,-0.457,1.8422,-1.2747 +units=m +no_defs",

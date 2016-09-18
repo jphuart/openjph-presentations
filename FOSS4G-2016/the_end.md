@@ -1,12 +1,13 @@
 <div style="margin-bottom:150px;"><div style="float:left;">@jphuart</div><div style="float:right;">jph@openjph.be</div></div>
 <div style="clear:both;"></div>
 
-Thank **YOU** for your kind attention.
+Thank **you** for your kind attention.
 
-This presentation is available at 
+<br><small>This presentation is available at </small>
 
-https://github.com/jphuart/openjph-presentations/tree/master/FOSS4G-2016
+<small>https://github.com/jphuart/openjph-presentations/tree/master/FOSS4G-2016</small>
 
-Thanks to reveal.js https://github.com/hakimel/reveal.js
+<br><small>Thanks to reveal.js https://github.com/hakimel/reveal.js for the presentation framework.</small>
 
-<img src="../images/OpenJPH_logo.png" alt="OpenJph logo" height="100">
+><small>Jean Pierre Huart - FOSS4G - 2016-09-22</small>	
+<img src="../images/OpenJPH_logo.png" alt="OpenJph logo" height="50">

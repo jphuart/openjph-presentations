@@ -1,11 +1,17 @@
 ## GRASS
 
+<br>
+The help structure disappointed me, but it's well done.
+
+Subscribe to the mailing list: 
+
+	http://lists.osgeo.org/mailman/listinfo/grass-user
+
 
 
 ### How to find your way in GRASS
 
   * Launch the GUI
-  * The help is disappointing, but finally well done
   * Selecting the GIS Database directory
   * Create your LOCATION
   * Create your MAPSET
@@ -88,7 +94,7 @@ Belgium:
 	input=/home/jph/dev/aaa-foss4g/gis_data/be_31370/be_adm0.shp 
 	layer=be_adm0 output=be_adm0
 	
-The same with administrative divisions:
+Belgian provinces:
 
 	v.in.ogr 
 	input=/home/jph/dev/aaa-foss4g/gis_data/be_31370/be_adm2.shp 
@@ -111,7 +117,7 @@ In other words, **_you need a good friend_** to set the displayed region:
 
 
 
-### Add the data as vector point map
+### Add the PV forecasts as vector point map
 
 
 <a href="../images/grass_13.png" target="_blank">

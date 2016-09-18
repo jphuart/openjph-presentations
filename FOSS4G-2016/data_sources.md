@@ -1,7 +1,14 @@
 ### Data sources
 
-To build our map, we start from a csv file with hourly PV production forecasts.
+The french partner of EnergizAIR (Hespul) provides hourly forecasts
+of PV production for 20 points in Belgium (or very near to it).
 
 
 
-<div style="text-align:center;"><img src="../images/comparaison_20150811.png" alt="hourly forecasts" height="100%"></div>
+<div style="text-align:center;"><img src="../images/comparaison_20150811.png" alt="hourly forecasts" width="100%"></div>
+
+
+
+How can we summarize this to be presented in 20" on TV?
+
+Can we build a map about it?
