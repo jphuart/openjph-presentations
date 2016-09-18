@@ -1,7 +1,7 @@
 ## GRASS
 
-<br>
-The help structure disappointed me, but it's well done.
+#### How to find your way in GRASS?
+The **help** structure disappointed me, but it's well done.
 
 Subscribe to the mailing list: 
 
@@ -9,8 +9,7 @@ Subscribe to the mailing list:
 
 
 
-### How to find your way in GRASS
-
+### Let's Grass
   * Launch the GUI
   * Selecting the GIS Database directory
   * Create your LOCATION
@@ -111,7 +110,7 @@ The geographic area in which GRASS should work:
   * number of columns and number of rows for the data
   * resolution, i.e. the extension divided by the number of rows (N-S resolution), respectively columns (E-W resolution).
 
-In other words, **_you need a good friend_** to set the displayed region: 
+In other words, **_you need a good friend_** to set the region: 
 
 	g.region n=243900 s=21200 e=295950 w=23700 rows=4454 cols=5445 nsres=50 ewres=50
 

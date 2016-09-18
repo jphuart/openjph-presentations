@@ -1,7 +1,8 @@
 ### Data sources
 
 The french partner of EnergizAIR (Hespul) provides hourly forecasts
-of PV production for 20 points in Belgium (or very near to it).
+of PV production for 20 points in Belgium.
+<br><small>(or very near to it)</small>
 
 
 

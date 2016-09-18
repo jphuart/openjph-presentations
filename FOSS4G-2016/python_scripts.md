@@ -36,6 +36,17 @@ Now you have access to **gscript.run_command()** to run the following functions.
 
 
 
+#### Add a mask
+
+	def set_mask(self, name):
+        result = self.gscript.run_command(
+        				'r.mask',
+						, overwrite=True,
+						, vector='{0}@{1}'.format(name, self.mapset)
+						, quiet=not self.debug)
+
+
+
 #### Build a raster from the vector point map
 
 	def create_rst_interpolation_raster(self, input, elevation, zcolumn, 
@@ -79,18 +90,6 @@ Pass it to the python script (rules):
 	    				'r.colors'
 						, map='{0}@{1}'.format(map, self.mapset)
 						, rules=rules
-						, quiet=not self.debug)
-
-
-
-
-#### Add a mask
-
-	def set_mask(self, name):
-        result = self.gscript.run_command(
-        				'r.mask',
-						, overwrite=True,
-						, vector='{0}@{1}'.format(name, self.mapset)
 						, quiet=not self.debug)
 
 
