@@ -6,7 +6,7 @@ of PV production for 20 points in Belgium.
 
 
 
-<div style="text-align:center;"><img src="../images/comparaison_20150811.png" alt="hourly forecasts" width="100%"></div>
+<div style="text-align:center;"><img src="images/comparaison_20150811.png" alt="hourly forecasts" width="100%"></div>
 
 
 

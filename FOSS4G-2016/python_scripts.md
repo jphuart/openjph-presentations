@@ -145,5 +145,23 @@ Pass it to the python script (rules):
 	    image_io = myimage.encode("base64")
 
 
+XSL transformation:
 
-<div style="text-align:center;"><img src="../images/summary_daily_today.png" alt="daily summary" height="700"></div>
+	def apply_xsl_transformation(self, pxslFileName, pxmlString):
+	    """ apply a xsl transformation to an xml file """
+	    """ load the xsl file that will perform the transformation """
+	    parser = etree.XMLParser(remove_blank_text=True)
+	    myxslt = etree.parse(pxslFileName, parser)
+	    transform = etree.XSLT(myxslt)
+	    """ load the xml string to be transformed 
+	        erase any encoding declaration to avoid error with the next treatment """
+	    pxmlString = re.sub(' encoding=\'utf-8\'', ' ', pxmlString)
+	    myxml = etree.XML(pxmlString)
+	    result = transform(myxml)
+	    
+	    return unicode(result)
+
+
+
+
+<div style="text-align:center;"><img src="images/summary_daily_today.png" alt="daily summary" height="700"></div>

@@ -17,43 +17,43 @@ Subscribe to the mailing list:
   * Start the GRASS session
 
 
-<a href="../images/grass_00.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_00.png" alt="step 00" height="100%"></div>
+<a href="images/grass_00.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_00.png" alt="step 00" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_01.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_01.png" alt="step 01" height="100%"></div>
+<a href="images/grass_01.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_01.png" alt="step 01" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_02.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_02.png" alt="step 02" height="100%"></div>
+<a href="images/grass_02.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_02.png" alt="step 02" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_03.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_03.png" alt="step 03" height="100%"></div>
+<a href="images/grass_03.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_03.png" alt="step 03" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_04.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_04.png" alt="step 04" height="100%"></div>
+<a href="images/grass_04.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_04.png" alt="step 04" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_05.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_05.png" alt="step 05" height="100%"></div>
+<a href="images/grass_05.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_05.png" alt="step 05" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_06.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_06.png" alt="step 06" height="100%"></div>
+<a href="images/grass_06.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_06.png" alt="step 06" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_07.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_07.png" alt="step 07" height="100%"></div>
+<a href="images/grass_07.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_07.png" alt="step 07" height="100%"></div>
 </a>
 
 
@@ -61,28 +61,28 @@ Subscribe to the mailing list:
 ### Add the vector map of Belgium
 
 
-<a href="../images/grass_08.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_08.png" alt="step 08" height="100%"></div>
+<a href="images/grass_08.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_08.png" alt="step 08" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_09.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_09.png" alt="step 09" height="100%"></div>
+<a href="images/grass_09.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_09.png" alt="step 09" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_10.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_10.png" alt="step 10" height="100%"></div>
+<a href="images/grass_10.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_10.png" alt="step 10" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_11.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_11.png" alt="step 11" height="100%"></div>
+<a href="images/grass_11.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_11.png" alt="step 11" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_12.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_12.png" alt="step 12" height="100%"></div>
+<a href="images/grass_12.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_12.png" alt="step 12" height="100%"></div>
 </a>
 
 
@@ -119,23 +119,23 @@ In other words, **_you need a good friend_** to set the region:
 ### Add the PV forecasts as vector point map
 
 
-<a href="../images/grass_13.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_13.png" alt="step 13" height="100%"></div>
+<a href="images/grass_13.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_13.png" alt="step 13" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_14.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_14.png" alt="step 14" height="100%"></div>
+<a href="images/grass_14.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_14.png" alt="step 14" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_15.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_15.png" alt="step 15" height="100%"></div>
+<a href="images/grass_15.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_15.png" alt="step 15" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_16.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_16.png" alt="step 16" height="100%"></div>
+<a href="images/grass_16.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_16.png" alt="step 16" height="100%"></div>
 </a>
 
 
@@ -153,23 +153,23 @@ All this is summarized in this command:
 ### Build a raster from the vector point map
 
 
-<a href="../images/grass_17.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_17.png" alt="step 17" height="100%"></div>
+<a href="images/grass_17.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_17.png" alt="step 17" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_18.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_18.png" alt="step 18" height="100%"></div>
+<a href="images/grass_18.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_18.png" alt="step 18" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_19.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_19.png" alt="step 19" height="100%"></div>
+<a href="images/grass_19.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_19.png" alt="step 19" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_20.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_20.png" alt="step 20" height="100%"></div>
+<a href="images/grass_20.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_20.png" alt="step 20" height="100%"></div>
 </a>
 
 
@@ -187,13 +187,13 @@ We have chosen the Regularized Spline Tension (rst) interpolation:
 ### Add a mask
 
 
-<a href="../images/grass_21.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_21.png" alt="step 21" height="100%"></div>
+<a href="images/grass_21.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_21.png" alt="step 21" height="100%"></div>
 </a>
 
 
-<a href="../images/grass_22.png" target="_blank">
-<div style="text-align:center;"><img src="../images/grass_22.png" alt="step 22" height="100%"></div>
+<a href="images/grass_22.png" target="_blank">
+<div style="text-align:center;"><img src="images/grass_22.png" alt="step 22" height="100%"></div>
 </a>
 
 
@@ -215,10 +215,10 @@ To directly build the raster including the mask:
 
 ### Save the result as an image
 
-<div style="text-align:center;"><img src="../images/my_first_image.png" alt="My first result" height="100%"></div>
+<div style="text-align:center;"><img src="images/my_first_image.png" alt="My first result" height="100%"></div>
 
 
 
-<a href="../images/sat20160811.gif" target="_blank">
-<div style="text-align:center;"><img src="../images/sat20160811.gif" alt="satellite meteo picture" height="100%"></div>
+<a href="images/sat20160811.gif" target="_blank">
+<div style="text-align:center;"><img src="images/sat20160811.gif" alt="satellite meteo picture" height="100%"></div>
 </a>

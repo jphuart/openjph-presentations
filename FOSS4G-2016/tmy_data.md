@@ -12,11 +12,11 @@ Clear sky solar energy received on an inclined plane during a **normal year**.
 
 This is an amount of solar energy expressed in kWh/m²*day (source météonorm).
 
-<div style="text-align:center;"><img src="../images/foss4g-2016-tmy-clearsky.png" alt="TMY clearsky" height="100%"></div>
+<div style="text-align:center;"><img src="images/foss4g-2016-tmy-clearsky.png" alt="TMY clearsky" height="100%"></div>
 
 
 
-<div style="text-align:center;"><img src="../images/tmy_example.png" alt="TMY file example" height="100%"></div>
+<div style="text-align:center;"><img src="images/tmy_example.png" alt="TMY file example" height="100%"></div>
 
 
 
@@ -27,4 +27,4 @@ Result hourly power is expressed in Wh/Wp.
 
 
 
-<div style="text-align:center;"><img src="../images/clearsky_csv_example.png" alt="Clearsky CSV example" height="100%"></div>
+<div style="text-align:center;"><img src="images/clearsky_csv_example.png" alt="Clearsky CSV example" height="100%"></div>

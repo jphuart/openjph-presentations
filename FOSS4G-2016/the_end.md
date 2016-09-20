@@ -10,4 +10,4 @@ Thank **you** for your kind attention.
 <br><small>Thanks to reveal.js https://github.com/hakimel/reveal.js for the presentation framework.</small>
 
 ><small>Jean Pierre Huart - FOSS4G - 2016-09-22</small>	
-<img src="../images/OpenJPH_logo.png" alt="OpenJph logo" height="50">
+<img src="images/OpenJPH_logo.png" alt="OpenJph logo" height="50">
