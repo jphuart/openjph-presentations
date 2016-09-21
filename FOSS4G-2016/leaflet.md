@@ -2,7 +2,7 @@
 
 Used libraries:
   * jquery-2.2.3.min.js
-  * leaflet.js
+  * leaflet-1.0.0.js
   * proj4-compressed.js
   * proj4leaflet.js
 
