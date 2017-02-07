@@ -23,5 +23,7 @@ Pour plus de détails, remontez à la source: [https://git-scm.com/doc](https://
   * [La gestion des conflits](conflits.md)
   * [La gestion branchée](branches.md)
   * [Gestion des clés d'identification](sshkeys.md)
-  
+
+Une autre <a href="http://rogerdudler.github.io/git-guide/index.fr.html" target="_blank">présentation bien fichue</a>.
+
 Et ceci n'est qu'un début! **Bon amusement**.
