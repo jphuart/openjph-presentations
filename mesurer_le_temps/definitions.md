@@ -1,3 +1,6 @@
+Merci à Mario Corchero pour sa présentation au FOSDEM 2017. 
+Cette présentation en est une adaptation.
+
 # Comment mesurer le temps?
 
 | Mesurer le temps - sablier |
@@ -63,7 +66,11 @@ chaque minute en 60 secondes.
 
 # DST Daylight Saving Time
 
+A développer.
+
 # UNIX time
+
+A développer.
 
 # Représentations du temps
 
