@@ -1,20 +1,20 @@
 Merci à Mario Corchero pour sa présentation au FOSDEM 2017. 
 Cette présentation en est une adaptation.
 
-# Comment mesurer le temps?
+
 
 | Mesurer le temps - sablier |
 |:----------------:|
 | ![sablier](img/sablier.jpg "sablier") |
-	
-# UT1
- 
+
+
+
 | UT1 - La rotation de la terre |
 |:----------------:|
 | ![rotation terrestre](img/ut1.png "rotation terrestre") |
 
-Pourquoi y a-t-il 24 heures dans une journée, 60 minutes dans une heure 
-et 60 secondes dans une minute ?
+
+## Pourquoi y a-t-il 24 heures dans une journée, 60 minutes dans une heure et 60 secondes dans une minute ?
 
 Notre façon de calculer le temps remonte à l’antique Babylone 
 (située dans l’Iraq d’aujourd’hui) à l’époque où a été créée notre écriture 
@@ -51,56 +51,31 @@ de même que le ciel en douze constellations principales (les douze signes du zo
 Fidèles à leur système en base 12, ils ont divisé chaque heure en 60 minutes et 
 chaque minute en 60 secondes. 
 
-# TAI
+
 
 | TAI - Temps atomique |
 |:----------------:|
 | ![temps atomique](img/temps_atomique.png "temps atomique") |
 
-# UTC
+La seconde = la durée de 9 192 631 770 périodes de la radiation correspondant à 
+la transition entre les deux niveaux hyperfins de l'état fondamental de l'atome de césium 133.
+
+
 
 | Fuseaux horaires - UTC offsets - GMT |
 |:----------------:|
 | ![fuseaux horaires](img/fuseaux_horaires.resized.png "fuseaux horaires") |
 
 
-# DST Daylight Saving Time
 
-A développer.
+| Daylight Saving Time - DST |
+|:----------------:|
+| ![DST](img/DST_Countries_Map.png "DST") |
+
+
 
 # UNIX time
 
-A développer.
-
-# Représentations du temps
-
-Ou comment être certains de bien fixer un rendez vous, de correctement calculer 
-un laps de temps.
-
-	Il n'existe pas d'an 0.
-
-	2/12/2017
-	
-	2:22
-	
-	Quelle heure est-il maintenant au pôle sud?
-	
-	Combien d'heures dans une journée?
-	
-	Combien de secondes entre le 2016-12-31T23:00:00Z et le 2017-01-01T01:00:00Z
-	
-# ISO 8601
-
-[ISO 8601](https://fr.wikipedia.org/wiki/ISO_8601)
-
-# Librairies python
-
-  * Datetime
-  * Dateutil
-  * Pytz
-  * Arrow
-  * Pendulum
-  * Astropy
-  * Freezegun
-
-	
+Unix time (also known as POSIX time or Epoch time) is a system for describing instants in time, 
+defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), 
+Thursday, 1 January 1970, not counting leap seconds.
