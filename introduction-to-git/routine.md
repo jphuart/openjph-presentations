@@ -1,6 +1,8 @@
 ### Sésame ouvre toi
 
 	git help
+	
+	git <command> --help
 
 ### La routine de travail
 

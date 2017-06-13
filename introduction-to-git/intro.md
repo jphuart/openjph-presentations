@@ -14,7 +14,7 @@ vraiment efficaces que pour **les fichiers texte**.
 
 
 Cette présentation a pour but de rappeler les fonctionalités de base de GIT.
-Pour plus de détails, remontez à la source: [https://git-scm.com/doc](https://git-scm.com/doc).
+Pour plus de détails, remontez à la source: <a href="https://git-scm.com/doc" target="_blank">https://git-scm.com/doc</a>.
 
   * [Installation](installation.md)
   * [Configuration](configuration.md)
